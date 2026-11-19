@@ -1,0 +1,17 @@
+SOFTWARE SERVICES AGREEMENT (FICTIONAL DEMO)
+
+This Software Services Agreement is entered into by Northstar Tools, Inc. (Customer) and Example Cloud Services, LLC (Provider), effective January 1, 2026.
+
+1. Services. Provider will host Customer's project management workspace and provide support as described in the service plan. Provider will use commercially reasonable efforts to maintain availability but does not guarantee uninterrupted service.
+
+2. Fees and price changes. Customer will pay the annual subscription fee stated in the order form. Provider may change subscription prices for a renewal term by giving Customer at least sixty (60) days' written notice before the renewal date. If Customer does not accept the new price, Customer may cancel the renewal by written notice before the current term ends.
+
+3. Term and termination. The initial term is one year and renews for successive one-year terms unless either party gives thirty (30) days' written notice of non-renewal. Either party may terminate for a material breach if the other party fails to cure the breach within thirty (30) days after receiving written notice. Customer may terminate immediately if Provider becomes insolvent.
+
+4. Confidentiality. Each party will protect the other party's confidential information using at least reasonable care and will use it only to perform or receive the services. These obligations continue for three years after termination. Information that becomes public without breach of this agreement is not confidential information.
+
+5. Limitation of liability. Except for the excluded claims below, each party's total liability arising out of this agreement will not exceed the fees paid or payable in the twelve months before the event giving rise to the claim. Neither party will be liable for indirect, incidental, special, or consequential damages. The cap does not apply to a party's confidentiality breach, fraud, or willful misconduct.
+
+6. Delivery and service levels. Provider will make the hosted service available in accordance with the service level exhibit. If monthly availability falls below 99.5%, Customer may request a service credit under that exhibit. The agreement does not state a guaranteed delivery date for optional implementation services; those dates will be agreed in a separate statement of work.
+
+7. Governing law. This agreement is governed by the laws of the State of Delaware, without regard to conflict-of-law rules.
